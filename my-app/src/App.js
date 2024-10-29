@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from 'https://www.propelleraero.com/wp-content/uploads/2021/05/Vector.svg';
 import './App.css';
 
 function App() {
@@ -11,7 +11,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.propelleraero.com/dirtmate/"
           target="_blank"
           rel="noopener noreferrer"
         >
